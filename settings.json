@@ -229,5 +229,7 @@
   "editor.minimap.enabled": false,
     "editor.bracketPairColorization.enabled": false,
   "editor.renderLineHighlight": "none",
-  "editor.semanticHighlighting.enabled": false
+  "editor.semanticHighlighting.enabled": false,
+    "workbench.tree.renderIndentGuides": "none",
+  "editor.lineHeight": 2.5
 }
